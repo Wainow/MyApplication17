@@ -57,7 +57,7 @@ afterEvaluate {
                 release(MavenPublication) {
                     components.getByName('release')
                     groupId = 'com.example.mylibrary'
-                    artifactId = 'My Application'
+                    artifactId = 'MyApplication17'
                     version = '1.0'
                 }
             }
