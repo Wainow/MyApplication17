@@ -58,7 +58,7 @@ afterEvaluate {
                     components.getByName('release')
                     groupId = 'com.example.mylibrary'
                     artifactId = 'MyApplication17'
-                    version = '1.0'
+                    version = '3.0'
                 }
             }
         }
